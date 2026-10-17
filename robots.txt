@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /img/
+Allow: /favicon.ico
+Allow: /site.webmanifest
+Disallow: /scratch/
+Disallow: /uploads/
+Disallow: /db.php
+Disallow: /database.sql
+
+Sitemap: https://pudamiconsultancy.com/sitemap.xml

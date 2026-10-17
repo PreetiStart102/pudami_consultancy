@@ -1,0 +1,12 @@
+# Uploads (Keep directories, ignore user uploaded documents)
+uploads/resumes/*
+!uploads/resumes/.gitkeep
+uploads/aadhar/*
+!uploads/aadhar/.gitkeep
+
+# System & IDE files
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/

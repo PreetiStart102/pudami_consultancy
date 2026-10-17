@@ -1,0 +1,23 @@
+{
+  "name": "Pudami Consultancy Services (India) Pvt Ltd",
+  "short_name": "Pudami Consultancy",
+  "description": "Premier Real Estate & Property Advisory Services across Andhra Pradesh and Telangana.",
+  "start_url": "./index.php",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0E2E50",
+  "icons": [
+    {
+      "src": "img/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "img/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
