@@ -17,7 +17,8 @@ $pageTitles = [
     'login' => 'Client Portal Login | Pudami Consultancy Services',
     'register' => 'Register New Client Account | Pudami Consultancy Services',
     'dashboard' => 'Investor & Client Dashboard | Pudami Consultancy Services',
-    'privacy-policy' => 'Privacy Policy | Pudami Consultancy Services (India) Pvt Ltd - Data Protection & Compliance'
+    'privacy-policy' => 'Privacy Policy | Pudami Consultancy Services (India) Pvt Ltd - Data Protection & Compliance',
+    '404' => '404 Page Not Found | Pudami Consultancy Services (India) Pvt Ltd'
 ];
 
 $pageDescriptions = [
@@ -28,7 +29,8 @@ $pageDescriptions = [
     'our-presence' => 'Explore Pudami Consultancy project presence across prime growth corridors in Andhra Pradesh and Telangana.',
     'careers' => 'Join our team of certified real estate advisors, property valuation analysts, and marketing executives.',
     'contact' => 'Get in touch with Pudami Consultancy property advisors in Vijayawada & Hyderabad for site visits, EC verification, and loan consultations.',
-    'privacy-policy' => 'Official Privacy Policy of Pudami Consultancy Services (India) Pvt Ltd. Learn how we safeguard client data, Aadhar documents, property records, and comply with RERA and DPDP Act.'
+    'privacy-policy' => 'Official Privacy Policy of Pudami Consultancy Services (India) Pvt Ltd. Learn how we safeguard client data, Aadhar documents, property records, and comply with RERA and DPDP Act.',
+    '404' => 'The requested page could not be found on Pudami Consultancy Services.'
 ];
 
 $currentTitle = $pageTitles[$activePage] ?? 'Pudami Consultancy Services (India) Pvt Ltd - Premier Real Estate & Property Advisory';
